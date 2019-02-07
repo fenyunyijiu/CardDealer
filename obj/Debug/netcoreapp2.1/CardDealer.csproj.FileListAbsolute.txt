@@ -1,0 +1,11 @@
+D:\Core Examples\CardDealer\bin\Debug\netcoreapp2.1\CardDealer.deps.json
+D:\Core Examples\CardDealer\bin\Debug\netcoreapp2.1\CardDealer.runtimeconfig.json
+D:\Core Examples\CardDealer\bin\Debug\netcoreapp2.1\CardDealer.runtimeconfig.dev.json
+D:\Core Examples\CardDealer\bin\Debug\netcoreapp2.1\CardDealer.dll
+D:\Core Examples\CardDealer\bin\Debug\netcoreapp2.1\CardDealer.pdb
+D:\Core Examples\CardDealer\obj\Debug\netcoreapp2.1\CardDealer.csprojAssemblyReference.cache
+D:\Core Examples\CardDealer\obj\Debug\netcoreapp2.1\CardDealer.csproj.CoreCompileInputs.cache
+D:\Core Examples\CardDealer\obj\Debug\netcoreapp2.1\CardDealer.AssemblyInfoInputs.cache
+D:\Core Examples\CardDealer\obj\Debug\netcoreapp2.1\CardDealer.AssemblyInfo.cs
+D:\Core Examples\CardDealer\obj\Debug\netcoreapp2.1\CardDealer.dll
+D:\Core Examples\CardDealer\obj\Debug\netcoreapp2.1\CardDealer.pdb
